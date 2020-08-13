@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/QQkyLVLAbQRKU/giphy.gif)
+![](https://github.com/ezxmora/ezxmora/blob/master/hello.gif)
 
 # Hello! My name is Erik
 

@@ -4,6 +4,6 @@
 
 ### 🔨 I'm working on:
 > * 🤖 My Discord bot, [Friskainet](https://github.com/ezxmora/friskainet)
-> * 🐦 My twitter bot, [Volatile](https://github.com/ezxmora/volatile)
+> * 🐦 My Twitter bot, [Volatile](https://github.com/ezxmora/volatile)
 > * 💾 My personal [API](https://github.com/ezxmora/ez-api)
 > * 💻 [My portfolio]()

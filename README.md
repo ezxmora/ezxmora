@@ -5,3 +5,4 @@
 ### 🔨 I'm working on:
 > * 🤖 My Discord bot, [Friskainet](https://github.com/ezxmora/friskainet)
 > * 🐦 My Twitter bot, [Volatile](https://github.com/ezxmora/volatile)
+> * 🎛️ My soundboard, [Ezxboard](https://github.com/ezxmora/ezxboard)
